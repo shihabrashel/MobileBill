@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe.config
+C:\Users\User\source\repos\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe
+C:\Users\User\source\repos\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.pdb
+C:\Users\User\source\repos\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.exe
+C:\Users\User\source\repos\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.pdb
